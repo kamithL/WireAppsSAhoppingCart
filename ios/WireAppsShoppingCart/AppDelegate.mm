@@ -26,6 +26,8 @@
 #else
   return [[NSBundle mainBundle] URLForResource:@"main" withExtension:@"jsbundle"];
 #endif
+  [RNSplashScreen show];
+  return YES;
 }
 
 @end
