@@ -12,7 +12,6 @@ WireAppsShoppingCart is a mobile application developed using React Native for ma
 - [Usage](#usage)
 - [Dependencies](#dependencies)
 - [Development Dependencies](#development-dependencies)
-- [Acknowledgments](#acknowledgments)
 
 ## Installation
 
@@ -42,70 +41,44 @@ To run the project locally, follow these steps:
     yarn install
     ```
 
-4. For running on Android:
+4. Start the development server:
 
     ```
-    npm run android
-    ```
-
-    or
-
-    ```
-    yarn android
-    ```
-
-5. For running on iOS:
-
-    ```
-    npm run ios
+    yarn start
     ```
 
     or
 
     ```
-    yarn ios
+    npm start
     ```
 
 ## Usage
 
 Once the WireAppsShoppingCart application is installed, you can follow these instructions to effectively use its features:
 
-### Starting the Application
-
-1. Make sure you have Node.js and npm (or Yarn) installed on your machine.
-2. Clone the repository to your local machine using the following command:
-    ```
-    git clone https://github.com/kamithL/WireAppsSAhoppingCart.git
-    ```
-3. Navigate to the project directory:
-    ```
-    cd WireAppsShoppingCart
-    ```
-4. Install dependencies using npm or Yarn:
-    ```
-    npm install
-    ```
-    or
-    ```
-    yarn install
-    ```
-
 ### Running the Application
 
 - To run the application on an Android device or emulator:
+
     ```
     npm run android
     ```
+
     or
+
     ```
     yarn android
     ```
 
 - To run the application on an iOS simulator (Mac only):
+
     ```
     npm run ios
     ```
+
     or
+
     ```
     yarn ios
     ```
@@ -116,11 +89,6 @@ Once the WireAppsShoppingCart application is installed, you can follow these ins
 - Navigate through different screens using the bottom navigation tabs, which include options such as "Home," and "Cart".
 - Add products to your cart by clicking the "Add to Cart" button on the product details screen.
 - View and manage your cart items by navigating to the "Cart" tab.
-
-
-### Description
-
-The WireAppsShoppingCart application simplifies the process of managing shopping carts on mobile devices. It offers an intuitive user interface with easy navigation and seamless integration with various features such as product browsing, and cart management. Whether you're a casual shopper or a frequent buyer, WireAppsShoppingCart provides a convenient solution for all your shopping needs.
 
 ## Dependencies
 
