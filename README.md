@@ -75,7 +75,7 @@ Once the WireAppsShoppingCart application is installed, you can follow these ins
 1. Make sure you have Node.js and npm (or Yarn) installed on your machine.
 2. Clone the repository to your local machine using the following command:
     ```
-    git clone <repository-url>
+    git clone https://github.com/kamithL/WireAppsSAhoppingCart.git
     ```
 3. Navigate to the project directory:
     ```
