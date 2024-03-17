@@ -165,7 +165,3 @@ The WireAppsShoppingCart application simplifies the process of managing shopping
 - **prettier**: 2.8.8
 - **react-test-renderer**: 18.2.0
 - **typescript**: 5.0.4
-
-## Acknowledgments
-
-Mention any acknowledgments here.
